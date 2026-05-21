@@ -42,6 +42,7 @@ To create realistic weather elements without an `.mp3` footprint, a custom rando
 This project was built by combining the fields of number theory, algorithmic audio synthesis, and hardware-accelerated animations. 
 
 ### 🤝 Developed In Collaboration With:
+Mr. Google: 👀🧮
 * **The Project Architect:** [Your Name / GitHub Profile Link] — *Poetry in motion across the pixel screen of life.*
 * **AI Engineering Partner:** Google AI Assistant — *Algorithmic design, procedural audio scaffolding, and math mapping integration.*
 * **Creative Inspiration:** *Every Single Unsolved Math Problem Explained Slowly For Sleep* (YouTube Community Hub).
